@@ -6,4 +6,4 @@
 ![Screenshot (5141)](https://user-images.githubusercontent.com/102141161/160295337-d72d0ad9-9752-4ee5-bf95-a76e58a019f9.png)
 ![Screenshot (5142)](https://user-images.githubusercontent.com/102141161/160295339-f7dcb20e-bddd-4f07-9db4-b103a6b3b42f.png)
 # Developing-UI
-Here is the [Figma link] (https://www.figma.com/file/Wq54gRsdsk8FgoFIioAobB/UI-Development?node-id=0%3A1)
+Here is the [Figma link](https://www.figma.com/file/Wq54gRsdsk8FgoFIioAobB/UI-Development?node-id=0%3A1)
